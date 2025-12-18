@@ -55,7 +55,6 @@ Projeleri yerel makinenizde çalıştırmak için aşağıdaki adımları izleye
     ```bash
     pip install -r requirements.txt
     ```
-    *(Not: Henüz bir `requirements.txt` dosyanız yoksa, `pip freeze > requirements.txt` komutuyla mevcut ortamınızdaki paketleri listeleyerek oluşturabilirsiniz.)*
 
 ## Projeleri Çalıştırma
 
